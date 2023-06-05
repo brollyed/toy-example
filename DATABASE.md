@@ -1,4 +1,6 @@
-# Database Schema
+# Database
+
+## Schema
 
 ### Students
 - StudentID int
@@ -21,6 +23,10 @@
 - SchoolID int
 - Name varchar(100)
 
+## Queries
 
-
-1. Write a query that returns the number of students
+Write a query that:
+1. Returns the total number of students
+2. Returns each school name and the number of students in that school
+3. Returns each users first name, last name, and the number of session minutes they have logged this week
+4. Returns the number of session minutes on each date of this year
