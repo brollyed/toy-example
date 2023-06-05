@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    align-items:start;
+    justify-content:center;
+    width: 50%;
+    margin:auto;
+    gap: 1rem;
+}
+
+.card {
+    border:1pt solid black;
+    padding: 1rem;
+    border-radius: .25rem;
+    box-shadow: 0 0 5px #555;
+    text-align: center;
+}
+
+body {
+    font-family: 'Roboto', sans-serif
+}
