@@ -1,0 +1,2006 @@
+[
+    {
+      "userID": 109,
+      "studentID": 14,
+      "minutes": 50,
+      "date": "2023-05-21T12:53:31"
+    },
+    {
+      "userID": 105,
+      "studentID": 19,
+      "minutes": 45,
+      "date": "2023-04-06T11:35:19"
+    },
+    {
+      "userID": 101,
+      "studentID": 20,
+      "minutes": 42,
+      "date": "2023-04-18T04:57:17"
+    },
+    {
+      "userID": 106,
+      "studentID": 9,
+      "minutes": 42,
+      "date": "2023-01-31T02:06:12"
+    },
+    {
+      "userID": 110,
+      "studentID": 58,
+      "minutes": 59,
+      "date": "2023-01-27T12:29:02"
+    },
+    {
+      "userID": 110,
+      "studentID": 44,
+      "minutes": 54,
+      "date": "2023-02-26T06:14:25"
+    },
+    {
+      "userID": 112,
+      "studentID": 27,
+      "minutes": 56,
+      "date": "2023-01-13T09:37:34"
+    },
+    {
+      "userID": 102,
+      "studentID": 56,
+      "minutes": 30,
+      "date": "2023-05-11T02:47:47"
+    },
+    {
+      "userID": 103,
+      "studentID": 10,
+      "minutes": 58,
+      "date": "2023-04-22T08:51:04"
+    },
+    {
+      "userID": 112,
+      "studentID": 18,
+      "minutes": 49,
+      "date": "2023-06-04T04:42:45"
+    },
+    {
+      "userID": 105,
+      "studentID": 60,
+      "minutes": 44,
+      "date": "2023-02-18T08:51:07"
+    },
+    {
+      "userID": 104,
+      "studentID": 50,
+      "minutes": 42,
+      "date": "2023-03-15T11:24:40"
+    },
+    {
+      "userID": 105,
+      "studentID": 22,
+      "minutes": 39,
+      "date": "2023-04-19T12:37:12"
+    },
+    {
+      "userID": 103,
+      "studentID": 52,
+      "minutes": 55,
+      "date": "2023-01-01T08:38:50"
+    },
+    {
+      "userID": 105,
+      "studentID": 27,
+      "minutes": 51,
+      "date": "2023-01-13T11:27:36"
+    },
+    {
+      "userID": 101,
+      "studentID": 38,
+      "minutes": 41,
+      "date": "2023-06-04T12:21:13"
+    },
+    {
+      "userID": 112,
+      "studentID": 12,
+      "minutes": 48,
+      "date": "2023-04-25T02:08:55"
+    },
+    {
+      "userID": 102,
+      "studentID": 12,
+      "minutes": 33,
+      "date": "2023-02-02T08:55:25"
+    },
+    {
+      "userID": 107,
+      "studentID": 33,
+      "minutes": 36,
+      "date": "2023-01-09T02:25:03"
+    },
+    {
+      "userID": 110,
+      "studentID": 30,
+      "minutes": 40,
+      "date": "2023-01-04T07:01:31"
+    },
+    {
+      "userID": 101,
+      "studentID": 64,
+      "minutes": 37,
+      "date": "2023-01-11T07:45:43"
+    },
+    {
+      "userID": 101,
+      "studentID": 3,
+      "minutes": 55,
+      "date": "2023-01-17T08:05:06"
+    },
+    {
+      "userID": 107,
+      "studentID": 20,
+      "minutes": 38,
+      "date": "2023-03-16T10:18:17"
+    },
+    {
+      "userID": 101,
+      "studentID": 53,
+      "minutes": 38,
+      "date": "2023-05-14T04:41:12"
+    },
+    {
+      "userID": 103,
+      "studentID": 56,
+      "minutes": 44,
+      "date": "2023-01-02T06:20:18"
+    },
+    {
+      "userID": 101,
+      "studentID": 33,
+      "minutes": 49,
+      "date": "2023-01-19T03:15:31"
+    },
+    {
+      "userID": 104,
+      "studentID": 66,
+      "minutes": 32,
+      "date": "2023-05-17T02:09:04"
+    },
+    {
+      "userID": 109,
+      "studentID": 45,
+      "minutes": 39,
+      "date": "2023-02-07T04:16:16"
+    },
+    {
+      "userID": 110,
+      "studentID": 38,
+      "minutes": 60,
+      "date": "2023-04-12T07:49:39"
+    },
+    {
+      "userID": 103,
+      "studentID": 59,
+      "minutes": 53,
+      "date": "2023-01-28T05:26:48"
+    },
+    {
+      "userID": 108,
+      "studentID": 54,
+      "minutes": 50,
+      "date": "2023-02-06T07:40:07"
+    },
+    {
+      "userID": 106,
+      "studentID": 36,
+      "minutes": 41,
+      "date": "2023-01-26T12:57:25"
+    },
+    {
+      "userID": 111,
+      "studentID": 65,
+      "minutes": 52,
+      "date": "2023-04-26T07:09:40"
+    },
+    {
+      "userID": 110,
+      "studentID": 52,
+      "minutes": 36,
+      "date": "2023-02-03T12:39:14"
+    },
+    {
+      "userID": 111,
+      "studentID": 39,
+      "minutes": 49,
+      "date": "2023-02-28T08:47:43"
+    },
+    {
+      "userID": 111,
+      "studentID": 57,
+      "minutes": 37,
+      "date": "2023-04-20T01:10:17"
+    },
+    {
+      "userID": 105,
+      "studentID": 22,
+      "minutes": 30,
+      "date": "2023-01-17T10:24:46"
+    },
+    {
+      "userID": 102,
+      "studentID": 47,
+      "minutes": 32,
+      "date": "2023-04-18T04:31:20"
+    },
+    {
+      "userID": 103,
+      "studentID": 12,
+      "minutes": 58,
+      "date": "2023-01-29T01:07:47"
+    },
+    {
+      "userID": 111,
+      "studentID": 60,
+      "minutes": 47,
+      "date": "2023-01-01T01:12:36"
+    },
+    {
+      "userID": 110,
+      "studentID": 7,
+      "minutes": 56,
+      "date": "2023-02-09T11:29:56"
+    },
+    {
+      "userID": 103,
+      "studentID": 30,
+      "minutes": 46,
+      "date": "2023-01-07T03:53:04"
+    },
+    {
+      "userID": 111,
+      "studentID": 10,
+      "minutes": 42,
+      "date": "2023-02-27T11:35:58"
+    },
+    {
+      "userID": 106,
+      "studentID": 5,
+      "minutes": 43,
+      "date": "2023-04-07T10:03:47"
+    },
+    {
+      "userID": 110,
+      "studentID": 19,
+      "minutes": 56,
+      "date": "2023-03-31T11:25:25"
+    },
+    {
+      "userID": 105,
+      "studentID": 40,
+      "minutes": 60,
+      "date": "2023-04-24T04:57:55"
+    },
+    {
+      "userID": 108,
+      "studentID": 32,
+      "minutes": 38,
+      "date": "2023-01-31T08:24:32"
+    },
+    {
+      "userID": 104,
+      "studentID": 47,
+      "minutes": 49,
+      "date": "2023-01-22T09:46:37"
+    },
+    {
+      "userID": 105,
+      "studentID": 40,
+      "minutes": 53,
+      "date": "2023-03-06T11:02:11"
+    },
+    {
+      "userID": 103,
+      "studentID": 23,
+      "minutes": 48,
+      "date": "2023-02-13T08:02:19"
+    },
+    {
+      "userID": 109,
+      "studentID": 45,
+      "minutes": 54,
+      "date": "2023-04-01T10:33:18"
+    },
+    {
+      "userID": 110,
+      "studentID": 19,
+      "minutes": 49,
+      "date": "2023-03-05T11:08:37"
+    },
+    {
+      "userID": 102,
+      "studentID": 40,
+      "minutes": 37,
+      "date": "2023-04-21T12:45:38"
+    },
+    {
+      "userID": 103,
+      "studentID": 46,
+      "minutes": 36,
+      "date": "2023-01-21T12:50:20"
+    },
+    {
+      "userID": 101,
+      "studentID": 27,
+      "minutes": 59,
+      "date": "2023-01-16T11:19:11"
+    },
+    {
+      "userID": 106,
+      "studentID": 19,
+      "minutes": 57,
+      "date": "2023-05-10T12:33:39"
+    },
+    {
+      "userID": 111,
+      "studentID": 50,
+      "minutes": 33,
+      "date": "2023-05-12T10:19:02"
+    },
+    {
+      "userID": 106,
+      "studentID": 29,
+      "minutes": 33,
+      "date": "2023-02-02T12:54:36"
+    },
+    {
+      "userID": 112,
+      "studentID": 62,
+      "minutes": 32,
+      "date": "2023-04-14T12:27:27"
+    },
+    {
+      "userID": 111,
+      "studentID": 36,
+      "minutes": 42,
+      "date": "2023-01-02T11:54:56"
+    },
+    {
+      "userID": 104,
+      "studentID": 15,
+      "minutes": 39,
+      "date": "2023-02-14T05:55:55"
+    },
+    {
+      "userID": 105,
+      "studentID": 2,
+      "minutes": 59,
+      "date": "2023-05-22T12:52:11"
+    },
+    {
+      "userID": 102,
+      "studentID": 63,
+      "minutes": 53,
+      "date": "2023-05-20T02:55:34"
+    },
+    {
+      "userID": 105,
+      "studentID": 55,
+      "minutes": 44,
+      "date": "2023-03-08T09:13:28"
+    },
+    {
+      "userID": 101,
+      "studentID": 51,
+      "minutes": 38,
+      "date": "2023-01-03T04:26:19"
+    },
+    {
+      "userID": 111,
+      "studentID": 68,
+      "minutes": 49,
+      "date": "2023-03-17T06:17:00"
+    },
+    {
+      "userID": 103,
+      "studentID": 61,
+      "minutes": 54,
+      "date": "2023-03-25T04:14:23"
+    },
+    {
+      "userID": 105,
+      "studentID": 56,
+      "minutes": 38,
+      "date": "2023-05-05T02:34:59"
+    },
+    {
+      "userID": 112,
+      "studentID": 47,
+      "minutes": 35,
+      "date": "2023-02-03T08:21:55"
+    },
+    {
+      "userID": 102,
+      "studentID": 38,
+      "minutes": 57,
+      "date": "2023-02-23T06:41:46"
+    },
+    {
+      "userID": 108,
+      "studentID": 67,
+      "minutes": 34,
+      "date": "2023-01-05T11:07:13"
+    },
+    {
+      "userID": 103,
+      "studentID": 38,
+      "minutes": 50,
+      "date": "2023-04-30T02:13:09"
+    },
+    {
+      "userID": 101,
+      "studentID": 70,
+      "minutes": 55,
+      "date": "2023-04-15T04:17:16"
+    },
+    {
+      "userID": 102,
+      "studentID": 13,
+      "minutes": 50,
+      "date": "2023-04-10T09:44:10"
+    },
+    {
+      "userID": 103,
+      "studentID": 27,
+      "minutes": 53,
+      "date": "2023-03-26T05:19:11"
+    },
+    {
+      "userID": 108,
+      "studentID": 24,
+      "minutes": 38,
+      "date": "2023-03-24T07:55:08"
+    },
+    {
+      "userID": 109,
+      "studentID": 4,
+      "minutes": 33,
+      "date": "2023-01-16T07:06:34"
+    },
+    {
+      "userID": 110,
+      "studentID": 22,
+      "minutes": 42,
+      "date": "2023-06-01T03:04:58"
+    },
+    {
+      "userID": 107,
+      "studentID": 46,
+      "minutes": 38,
+      "date": "2023-04-20T03:15:47"
+    },
+    {
+      "userID": 102,
+      "studentID": 15,
+      "minutes": 49,
+      "date": "2023-04-05T07:40:03"
+    },
+    {
+      "userID": 104,
+      "studentID": 63,
+      "minutes": 36,
+      "date": "2023-03-19T07:33:59"
+    },
+    {
+      "userID": 103,
+      "studentID": 6,
+      "minutes": 32,
+      "date": "2023-05-14T03:56:44"
+    },
+    {
+      "userID": 111,
+      "studentID": 0,
+      "minutes": 35,
+      "date": "2023-01-21T03:49:34"
+    },
+    {
+      "userID": 108,
+      "studentID": 35,
+      "minutes": 30,
+      "date": "2023-01-23T09:08:06"
+    },
+    {
+      "userID": 102,
+      "studentID": 29,
+      "minutes": 35,
+      "date": "2023-01-25T01:26:34"
+    },
+    {
+      "userID": 103,
+      "studentID": 24,
+      "minutes": 38,
+      "date": "2023-02-25T02:26:58"
+    },
+    {
+      "userID": 112,
+      "studentID": 29,
+      "minutes": 57,
+      "date": "2023-01-23T08:17:52"
+    },
+    {
+      "userID": 103,
+      "studentID": 23,
+      "minutes": 55,
+      "date": "2023-06-05T10:06:59"
+    },
+    {
+      "userID": 103,
+      "studentID": 36,
+      "minutes": 45,
+      "date": "2023-04-12T02:36:55"
+    },
+    {
+      "userID": 104,
+      "studentID": 25,
+      "minutes": 52,
+      "date": "2023-03-06T09:42:45"
+    },
+    {
+      "userID": 112,
+      "studentID": 23,
+      "minutes": 59,
+      "date": "2023-01-03T04:34:38"
+    },
+    {
+      "userID": 104,
+      "studentID": 25,
+      "minutes": 33,
+      "date": "2023-05-03T04:08:44"
+    },
+    {
+      "userID": 107,
+      "studentID": 46,
+      "minutes": 38,
+      "date": "2023-03-01T09:19:11"
+    },
+    {
+      "userID": 112,
+      "studentID": 18,
+      "minutes": 53,
+      "date": "2023-04-03T04:43:21"
+    },
+    {
+      "userID": 109,
+      "studentID": 14,
+      "minutes": 48,
+      "date": "2023-04-29T06:25:54"
+    },
+    {
+      "userID": 111,
+      "studentID": 47,
+      "minutes": 40,
+      "date": "2023-01-22T07:33:10"
+    },
+    {
+      "userID": 110,
+      "studentID": 65,
+      "minutes": 30,
+      "date": "2023-06-02T06:17:08"
+    },
+    {
+      "userID": 111,
+      "studentID": 57,
+      "minutes": 58,
+      "date": "2023-05-20T02:42:58"
+    },
+    {
+      "userID": 105,
+      "studentID": 19,
+      "minutes": 43,
+      "date": "2023-02-20T01:27:13"
+    },
+    {
+      "userID": 102,
+      "studentID": 13,
+      "minutes": 32,
+      "date": "2023-01-13T04:39:05"
+    },
+    {
+      "userID": 111,
+      "studentID": 51,
+      "minutes": 42,
+      "date": "2023-01-24T02:30:49"
+    },
+    {
+      "userID": 102,
+      "studentID": 45,
+      "minutes": 49,
+      "date": "2023-04-28T03:54:28"
+    },
+    {
+      "userID": 104,
+      "studentID": 30,
+      "minutes": 40,
+      "date": "2023-06-01T04:48:22"
+    },
+    {
+      "userID": 107,
+      "studentID": 62,
+      "minutes": 36,
+      "date": "2023-05-17T01:42:39"
+    },
+    {
+      "userID": 102,
+      "studentID": 13,
+      "minutes": 34,
+      "date": "2023-06-01T10:27:09"
+    },
+    {
+      "userID": 111,
+      "studentID": 61,
+      "minutes": 51,
+      "date": "2023-04-30T02:08:07"
+    },
+    {
+      "userID": 101,
+      "studentID": 68,
+      "minutes": 58,
+      "date": "2023-01-27T07:03:01"
+    },
+    {
+      "userID": 109,
+      "studentID": 63,
+      "minutes": 34,
+      "date": "2023-02-19T01:45:01"
+    },
+    {
+      "userID": 110,
+      "studentID": 11,
+      "minutes": 57,
+      "date": "2023-04-06T04:53:48"
+    },
+    {
+      "userID": 101,
+      "studentID": 18,
+      "minutes": 43,
+      "date": "2023-04-07T10:39:34"
+    },
+    {
+      "userID": 101,
+      "studentID": 22,
+      "minutes": 31,
+      "date": "2023-01-20T11:31:03"
+    },
+    {
+      "userID": 103,
+      "studentID": 36,
+      "minutes": 47,
+      "date": "2023-02-08T09:40:07"
+    },
+    {
+      "userID": 112,
+      "studentID": 51,
+      "minutes": 42,
+      "date": "2023-02-11T06:12:51"
+    },
+    {
+      "userID": 112,
+      "studentID": 17,
+      "minutes": 37,
+      "date": "2023-05-27T10:40:23"
+    },
+    {
+      "userID": 106,
+      "studentID": 57,
+      "minutes": 39,
+      "date": "2023-01-07T07:25:06"
+    },
+    {
+      "userID": 110,
+      "studentID": 23,
+      "minutes": 49,
+      "date": "2023-04-16T01:20:24"
+    },
+    {
+      "userID": 104,
+      "studentID": 35,
+      "minutes": 60,
+      "date": "2023-06-01T05:01:07"
+    },
+    {
+      "userID": 108,
+      "studentID": 16,
+      "minutes": 36,
+      "date": "2023-04-06T03:42:09"
+    },
+    {
+      "userID": 102,
+      "studentID": 53,
+      "minutes": 49,
+      "date": "2023-05-28T09:34:52"
+    },
+    {
+      "userID": 111,
+      "studentID": 30,
+      "minutes": 54,
+      "date": "2023-04-08T01:27:23"
+    },
+    {
+      "userID": 108,
+      "studentID": 70,
+      "minutes": 60,
+      "date": "2023-02-25T06:34:43"
+    },
+    {
+      "userID": 103,
+      "studentID": 4,
+      "minutes": 41,
+      "date": "2023-01-24T03:26:30"
+    },
+    {
+      "userID": 108,
+      "studentID": 52,
+      "minutes": 60,
+      "date": "2023-05-07T10:44:57"
+    },
+    {
+      "userID": 105,
+      "studentID": 0,
+      "minutes": 60,
+      "date": "2023-03-05T04:57:46"
+    },
+    {
+      "userID": 108,
+      "studentID": 43,
+      "minutes": 60,
+      "date": "2023-03-06T01:43:03"
+    },
+    {
+      "userID": 103,
+      "studentID": 12,
+      "minutes": 30,
+      "date": "2023-01-19T05:05:51"
+    },
+    {
+      "userID": 104,
+      "studentID": 28,
+      "minutes": 55,
+      "date": "2023-01-27T12:41:45"
+    },
+    {
+      "userID": 104,
+      "studentID": 52,
+      "minutes": 56,
+      "date": "2023-04-08T11:19:53"
+    },
+    {
+      "userID": 103,
+      "studentID": 62,
+      "minutes": 33,
+      "date": "2023-03-29T08:56:57"
+    },
+    {
+      "userID": 106,
+      "studentID": 54,
+      "minutes": 30,
+      "date": "2023-04-11T08:36:53"
+    },
+    {
+      "userID": 102,
+      "studentID": 58,
+      "minutes": 41,
+      "date": "2023-05-28T05:30:43"
+    },
+    {
+      "userID": 106,
+      "studentID": 15,
+      "minutes": 51,
+      "date": "2023-01-15T01:23:07"
+    },
+    {
+      "userID": 107,
+      "studentID": 53,
+      "minutes": 40,
+      "date": "2023-03-13T04:07:11"
+    },
+    {
+      "userID": 112,
+      "studentID": 44,
+      "minutes": 59,
+      "date": "2023-06-05T11:33:11"
+    },
+    {
+      "userID": 102,
+      "studentID": 51,
+      "minutes": 30,
+      "date": "2023-04-05T05:42:19"
+    },
+    {
+      "userID": 106,
+      "studentID": 28,
+      "minutes": 35,
+      "date": "2023-02-02T03:08:46"
+    },
+    {
+      "userID": 101,
+      "studentID": 52,
+      "minutes": 51,
+      "date": "2023-03-06T12:47:28"
+    },
+    {
+      "userID": 111,
+      "studentID": 60,
+      "minutes": 33,
+      "date": "2023-05-29T04:11:16"
+    },
+    {
+      "userID": 102,
+      "studentID": 4,
+      "minutes": 58,
+      "date": "2023-01-17T03:20:13"
+    },
+    {
+      "userID": 108,
+      "studentID": 18,
+      "minutes": 55,
+      "date": "2023-01-06T04:32:57"
+    },
+    {
+      "userID": 106,
+      "studentID": 11,
+      "minutes": 52,
+      "date": "2023-05-07T03:16:59"
+    },
+    {
+      "userID": 101,
+      "studentID": 69,
+      "minutes": 50,
+      "date": "2023-03-05T01:38:20"
+    },
+    {
+      "userID": 111,
+      "studentID": 60,
+      "minutes": 60,
+      "date": "2023-04-06T05:01:07"
+    },
+    {
+      "userID": 109,
+      "studentID": 39,
+      "minutes": 52,
+      "date": "2023-05-16T12:06:22"
+    },
+    {
+      "userID": 112,
+      "studentID": 3,
+      "minutes": 47,
+      "date": "2023-03-21T07:51:24"
+    },
+    {
+      "userID": 112,
+      "studentID": 63,
+      "minutes": 38,
+      "date": "2023-02-23T10:18:01"
+    },
+    {
+      "userID": 105,
+      "studentID": 16,
+      "minutes": 45,
+      "date": "2023-02-16T02:09:29"
+    },
+    {
+      "userID": 105,
+      "studentID": 3,
+      "minutes": 37,
+      "date": "2023-01-08T09:54:21"
+    },
+    {
+      "userID": 106,
+      "studentID": 60,
+      "minutes": 32,
+      "date": "2023-03-16T10:30:59"
+    },
+    {
+      "userID": 110,
+      "studentID": 30,
+      "minutes": 46,
+      "date": "2023-03-31T07:50:16"
+    },
+    {
+      "userID": 111,
+      "studentID": 45,
+      "minutes": 59,
+      "date": "2023-03-13T12:48:07"
+    },
+    {
+      "userID": 106,
+      "studentID": 5,
+      "minutes": 43,
+      "date": "2023-06-01T03:37:12"
+    },
+    {
+      "userID": 112,
+      "studentID": 38,
+      "minutes": 52,
+      "date": "2023-05-31T10:48:25"
+    },
+    {
+      "userID": 105,
+      "studentID": 39,
+      "minutes": 56,
+      "date": "2023-05-03T08:37:08"
+    },
+    {
+      "userID": 109,
+      "studentID": 19,
+      "minutes": 32,
+      "date": "2023-02-25T02:40:15"
+    },
+    {
+      "userID": 109,
+      "studentID": 17,
+      "minutes": 48,
+      "date": "2023-03-09T05:11:38"
+    },
+    {
+      "userID": 103,
+      "studentID": 37,
+      "minutes": 30,
+      "date": "2023-05-04T12:08:44"
+    },
+    {
+      "userID": 108,
+      "studentID": 50,
+      "minutes": 31,
+      "date": "2023-02-25T09:20:20"
+    },
+    {
+      "userID": 102,
+      "studentID": 52,
+      "minutes": 47,
+      "date": "2023-01-05T04:20:20"
+    },
+    {
+      "userID": 109,
+      "studentID": 62,
+      "minutes": 53,
+      "date": "2023-03-05T12:07:38"
+    },
+    {
+      "userID": 112,
+      "studentID": 37,
+      "minutes": 53,
+      "date": "2023-04-22T10:09:40"
+    },
+    {
+      "userID": 112,
+      "studentID": 37,
+      "minutes": 46,
+      "date": "2023-04-11T09:44:50"
+    },
+    {
+      "userID": 103,
+      "studentID": 8,
+      "minutes": 45,
+      "date": "2023-04-30T11:05:17"
+    },
+    {
+      "userID": 104,
+      "studentID": 18,
+      "minutes": 47,
+      "date": "2023-02-09T09:21:28"
+    },
+    {
+      "userID": 103,
+      "studentID": 52,
+      "minutes": 46,
+      "date": "2023-01-31T11:46:22"
+    },
+    {
+      "userID": 110,
+      "studentID": 45,
+      "minutes": 30,
+      "date": "2023-04-21T11:21:57"
+    },
+    {
+      "userID": 105,
+      "studentID": 2,
+      "minutes": 44,
+      "date": "2023-02-19T09:20:23"
+    },
+    {
+      "userID": 112,
+      "studentID": 22,
+      "minutes": 55,
+      "date": "2023-06-04T08:50:09"
+    },
+    {
+      "userID": 102,
+      "studentID": 50,
+      "minutes": 44,
+      "date": "2023-05-12T12:38:25"
+    },
+    {
+      "userID": 103,
+      "studentID": 47,
+      "minutes": 53,
+      "date": "2023-05-30T07:23:16"
+    },
+    {
+      "userID": 106,
+      "studentID": 26,
+      "minutes": 52,
+      "date": "2023-04-04T02:35:31"
+    },
+    {
+      "userID": 104,
+      "studentID": 35,
+      "minutes": 53,
+      "date": "2023-05-10T11:28:24"
+    },
+    {
+      "userID": 102,
+      "studentID": 2,
+      "minutes": 32,
+      "date": "2023-06-03T12:17:06"
+    },
+    {
+      "userID": 106,
+      "studentID": 60,
+      "minutes": 41,
+      "date": "2023-01-08T04:41:43"
+    },
+    {
+      "userID": 110,
+      "studentID": 44,
+      "minutes": 53,
+      "date": "2023-03-05T03:23:06"
+    },
+    {
+      "userID": 101,
+      "studentID": 18,
+      "minutes": 53,
+      "date": "2023-05-17T12:15:01"
+    },
+    {
+      "userID": 101,
+      "studentID": 64,
+      "minutes": 55,
+      "date": "2023-05-29T06:56:49"
+    },
+    {
+      "userID": 108,
+      "studentID": 59,
+      "minutes": 54,
+      "date": "2023-03-28T03:11:39"
+    },
+    {
+      "userID": 104,
+      "studentID": 37,
+      "minutes": 34,
+      "date": "2023-04-11T11:41:27"
+    },
+    {
+      "userID": 111,
+      "studentID": 61,
+      "minutes": 38,
+      "date": "2023-02-05T06:55:39"
+    },
+    {
+      "userID": 111,
+      "studentID": 64,
+      "minutes": 38,
+      "date": "2023-03-15T12:32:08"
+    },
+    {
+      "userID": 105,
+      "studentID": 48,
+      "minutes": 41,
+      "date": "2023-01-16T12:45:46"
+    },
+    {
+      "userID": 108,
+      "studentID": 64,
+      "minutes": 42,
+      "date": "2023-05-31T05:25:55"
+    },
+    {
+      "userID": 103,
+      "studentID": 54,
+      "minutes": 58,
+      "date": "2023-05-12T06:56:07"
+    },
+    {
+      "userID": 102,
+      "studentID": 3,
+      "minutes": 34,
+      "date": "2023-05-21T10:47:07"
+    },
+    {
+      "userID": 108,
+      "studentID": 38,
+      "minutes": 37,
+      "date": "2023-05-18T10:23:47"
+    },
+    {
+      "userID": 110,
+      "studentID": 51,
+      "minutes": 40,
+      "date": "2023-02-15T04:13:16"
+    },
+    {
+      "userID": 111,
+      "studentID": 30,
+      "minutes": 42,
+      "date": "2023-01-21T06:46:57"
+    },
+    {
+      "userID": 102,
+      "studentID": 14,
+      "minutes": 60,
+      "date": "2023-05-27T12:39:59"
+    },
+    {
+      "userID": 109,
+      "studentID": 33,
+      "minutes": 56,
+      "date": "2023-01-15T02:32:04"
+    },
+    {
+      "userID": 103,
+      "studentID": 61,
+      "minutes": 53,
+      "date": "2023-01-17T11:15:07"
+    },
+    {
+      "userID": 106,
+      "studentID": 30,
+      "minutes": 44,
+      "date": "2023-05-04T08:02:14"
+    },
+    {
+      "userID": 111,
+      "studentID": 9,
+      "minutes": 56,
+      "date": "2023-02-11T01:59:03"
+    },
+    {
+      "userID": 106,
+      "studentID": 69,
+      "minutes": 51,
+      "date": "2023-03-05T06:45:53"
+    },
+    {
+      "userID": 107,
+      "studentID": 22,
+      "minutes": 51,
+      "date": "2023-05-28T12:53:37"
+    },
+    {
+      "userID": 111,
+      "studentID": 55,
+      "minutes": 38,
+      "date": "2023-04-16T09:22:37"
+    },
+    {
+      "userID": 112,
+      "studentID": 70,
+      "minutes": 40,
+      "date": "2023-02-01T06:22:40"
+    },
+    {
+      "userID": 107,
+      "studentID": 61,
+      "minutes": 41,
+      "date": "2023-02-21T09:03:42"
+    },
+    {
+      "userID": 106,
+      "studentID": 32,
+      "minutes": 33,
+      "date": "2023-06-04T10:43:46"
+    },
+    {
+      "userID": 101,
+      "studentID": 24,
+      "minutes": 35,
+      "date": "2023-05-24T06:27:01"
+    },
+    {
+      "userID": 103,
+      "studentID": 1,
+      "minutes": 58,
+      "date": "2023-04-14T01:33:37"
+    },
+    {
+      "userID": 104,
+      "studentID": 10,
+      "minutes": 60,
+      "date": "2023-05-13T11:50:24"
+    },
+    {
+      "userID": 108,
+      "studentID": 31,
+      "minutes": 59,
+      "date": "2023-02-01T05:56:12"
+    },
+    {
+      "userID": 112,
+      "studentID": 6,
+      "minutes": 45,
+      "date": "2023-03-25T09:56:11"
+    },
+    {
+      "userID": 104,
+      "studentID": 6,
+      "minutes": 59,
+      "date": "2023-05-05T11:14:25"
+    },
+    {
+      "userID": 108,
+      "studentID": 45,
+      "minutes": 32,
+      "date": "2023-05-26T12:39:05"
+    },
+    {
+      "userID": 106,
+      "studentID": 7,
+      "minutes": 32,
+      "date": "2023-05-20T06:25:32"
+    },
+    {
+      "userID": 112,
+      "studentID": 38,
+      "minutes": 60,
+      "date": "2023-01-05T05:04:14"
+    },
+    {
+      "userID": 106,
+      "studentID": 23,
+      "minutes": 36,
+      "date": "2023-05-06T11:27:22"
+    },
+    {
+      "userID": 112,
+      "studentID": 6,
+      "minutes": 57,
+      "date": "2023-01-22T11:30:53"
+    },
+    {
+      "userID": 102,
+      "studentID": 20,
+      "minutes": 43,
+      "date": "2023-02-10T06:34:26"
+    },
+    {
+      "userID": 107,
+      "studentID": 0,
+      "minutes": 39,
+      "date": "2023-05-08T04:39:31"
+    },
+    {
+      "userID": 105,
+      "studentID": 55,
+      "minutes": 59,
+      "date": "2023-03-27T10:10:08"
+    },
+    {
+      "userID": 111,
+      "studentID": 42,
+      "minutes": 45,
+      "date": "2023-01-14T05:44:49"
+    },
+    {
+      "userID": 108,
+      "studentID": 61,
+      "minutes": 52,
+      "date": "2023-06-04T03:53:43"
+    },
+    {
+      "userID": 104,
+      "studentID": 14,
+      "minutes": 57,
+      "date": "2023-03-23T11:24:27"
+    },
+    {
+      "userID": 108,
+      "studentID": 13,
+      "minutes": 41,
+      "date": "2023-06-04T07:25:12"
+    },
+    {
+      "userID": 107,
+      "studentID": 68,
+      "minutes": 57,
+      "date": "2023-02-08T03:21:50"
+    },
+    {
+      "userID": 102,
+      "studentID": 66,
+      "minutes": 51,
+      "date": "2023-04-01T07:12:23"
+    },
+    {
+      "userID": 103,
+      "studentID": 8,
+      "minutes": 38,
+      "date": "2023-03-08T09:02:34"
+    },
+    {
+      "userID": 101,
+      "studentID": 19,
+      "minutes": 43,
+      "date": "2023-01-24T06:47:32"
+    },
+    {
+      "userID": 101,
+      "studentID": 32,
+      "minutes": 52,
+      "date": "2023-01-14T03:45:00"
+    },
+    {
+      "userID": 110,
+      "studentID": 50,
+      "minutes": 57,
+      "date": "2023-02-08T08:14:38"
+    },
+    {
+      "userID": 110,
+      "studentID": 36,
+      "minutes": 31,
+      "date": "2023-01-11T06:15:33"
+    },
+    {
+      "userID": 109,
+      "studentID": 53,
+      "minutes": 47,
+      "date": "2023-04-25T11:34:06"
+    },
+    {
+      "userID": 112,
+      "studentID": 18,
+      "minutes": 56,
+      "date": "2023-03-18T04:07:05"
+    },
+    {
+      "userID": 101,
+      "studentID": 36,
+      "minutes": 39,
+      "date": "2023-06-04T06:08:19"
+    },
+    {
+      "userID": 105,
+      "studentID": 55,
+      "minutes": 37,
+      "date": "2023-02-04T09:06:58"
+    },
+    {
+      "userID": 110,
+      "studentID": 23,
+      "minutes": 55,
+      "date": "2023-04-19T05:35:05"
+    },
+    {
+      "userID": 101,
+      "studentID": 51,
+      "minutes": 37,
+      "date": "2023-02-15T08:15:21"
+    },
+    {
+      "userID": 107,
+      "studentID": 61,
+      "minutes": 44,
+      "date": "2023-01-11T11:36:44"
+    },
+    {
+      "userID": 106,
+      "studentID": 61,
+      "minutes": 33,
+      "date": "2023-04-28T03:40:20"
+    },
+    {
+      "userID": 103,
+      "studentID": 18,
+      "minutes": 36,
+      "date": "2023-05-21T03:17:36"
+    },
+    {
+      "userID": 107,
+      "studentID": 24,
+      "minutes": 48,
+      "date": "2023-04-17T06:58:07"
+    },
+    {
+      "userID": 105,
+      "studentID": 30,
+      "minutes": 44,
+      "date": "2023-01-27T11:02:52"
+    },
+    {
+      "userID": 104,
+      "studentID": 5,
+      "minutes": 55,
+      "date": "2023-04-30T05:01:11"
+    },
+    {
+      "userID": 110,
+      "studentID": 11,
+      "minutes": 58,
+      "date": "2023-04-21T08:06:28"
+    },
+    {
+      "userID": 106,
+      "studentID": 6,
+      "minutes": 51,
+      "date": "2023-02-17T06:33:41"
+    },
+    {
+      "userID": 112,
+      "studentID": 13,
+      "minutes": 45,
+      "date": "2023-02-10T05:14:49"
+    },
+    {
+      "userID": 107,
+      "studentID": 30,
+      "minutes": 35,
+      "date": "2023-05-13T11:00:48"
+    },
+    {
+      "userID": 102,
+      "studentID": 53,
+      "minutes": 47,
+      "date": "2023-01-13T04:27:59"
+    },
+    {
+      "userID": 105,
+      "studentID": 8,
+      "minutes": 43,
+      "date": "2023-04-16T06:12:27"
+    },
+    {
+      "userID": 104,
+      "studentID": 61,
+      "minutes": 57,
+      "date": "2023-01-15T01:54:55"
+    },
+    {
+      "userID": 103,
+      "studentID": 59,
+      "minutes": 55,
+      "date": "2023-02-16T09:09:40"
+    },
+    {
+      "userID": 101,
+      "studentID": 34,
+      "minutes": 36,
+      "date": "2023-03-13T11:59:08"
+    },
+    {
+      "userID": 109,
+      "studentID": 8,
+      "minutes": 56,
+      "date": "2023-04-16T10:28:09"
+    },
+    {
+      "userID": 103,
+      "studentID": 18,
+      "minutes": 33,
+      "date": "2023-04-08T07:38:26"
+    },
+    {
+      "userID": 107,
+      "studentID": 49,
+      "minutes": 57,
+      "date": "2023-05-13T01:23:14"
+    },
+    {
+      "userID": 109,
+      "studentID": 45,
+      "minutes": 30,
+      "date": "2023-04-09T01:06:23"
+    },
+    {
+      "userID": 102,
+      "studentID": 39,
+      "minutes": 42,
+      "date": "2023-05-17T04:58:16"
+    },
+    {
+      "userID": 109,
+      "studentID": 50,
+      "minutes": 48,
+      "date": "2023-01-22T01:43:09"
+    },
+    {
+      "userID": 112,
+      "studentID": 9,
+      "minutes": 57,
+      "date": "2023-03-09T11:25:24"
+    },
+    {
+      "userID": 111,
+      "studentID": 31,
+      "minutes": 39,
+      "date": "2023-03-10T10:21:45"
+    },
+    {
+      "userID": 110,
+      "studentID": 38,
+      "minutes": 57,
+      "date": "2023-05-25T04:01:37"
+    },
+    {
+      "userID": 101,
+      "studentID": 7,
+      "minutes": 55,
+      "date": "2023-02-21T01:33:02"
+    },
+    {
+      "userID": 101,
+      "studentID": 50,
+      "minutes": 44,
+      "date": "2023-01-31T11:53:06"
+    },
+    {
+      "userID": 110,
+      "studentID": 59,
+      "minutes": 35,
+      "date": "2023-05-21T09:19:34"
+    },
+    {
+      "userID": 109,
+      "studentID": 47,
+      "minutes": 53,
+      "date": "2023-02-15T01:06:12"
+    },
+    {
+      "userID": 102,
+      "studentID": 7,
+      "minutes": 35,
+      "date": "2023-05-13T09:16:35"
+    },
+    {
+      "userID": 106,
+      "studentID": 30,
+      "minutes": 46,
+      "date": "2023-05-21T08:19:25"
+    },
+    {
+      "userID": 106,
+      "studentID": 20,
+      "minutes": 37,
+      "date": "2023-05-04T07:45:54"
+    },
+    {
+      "userID": 106,
+      "studentID": 32,
+      "minutes": 57,
+      "date": "2023-05-22T04:17:07"
+    },
+    {
+      "userID": 109,
+      "studentID": 15,
+      "minutes": 35,
+      "date": "2023-04-04T11:13:01"
+    },
+    {
+      "userID": 101,
+      "studentID": 4,
+      "minutes": 39,
+      "date": "2023-05-09T05:07:14"
+    },
+    {
+      "userID": 112,
+      "studentID": 25,
+      "minutes": 56,
+      "date": "2023-04-11T07:47:38"
+    },
+    {
+      "userID": 105,
+      "studentID": 26,
+      "minutes": 48,
+      "date": "2023-02-17T06:52:37"
+    },
+    {
+      "userID": 104,
+      "studentID": 54,
+      "minutes": 34,
+      "date": "2023-05-12T12:01:41"
+    },
+    {
+      "userID": 101,
+      "studentID": 41,
+      "minutes": 53,
+      "date": "2023-04-25T10:10:17"
+    },
+    {
+      "userID": 101,
+      "studentID": 3,
+      "minutes": 38,
+      "date": "2023-04-03T04:48:30"
+    },
+    {
+      "userID": 112,
+      "studentID": 15,
+      "minutes": 34,
+      "date": "2023-04-08T07:03:34"
+    },
+    {
+      "userID": 105,
+      "studentID": 62,
+      "minutes": 59,
+      "date": "2023-01-05T07:44:35"
+    },
+    {
+      "userID": 101,
+      "studentID": 43,
+      "minutes": 54,
+      "date": "2023-02-28T05:03:46"
+    },
+    {
+      "userID": 111,
+      "studentID": 35,
+      "minutes": 40,
+      "date": "2023-01-14T04:06:14"
+    },
+    {
+      "userID": 111,
+      "studentID": 61,
+      "minutes": 55,
+      "date": "2023-02-28T07:44:20"
+    },
+    {
+      "userID": 103,
+      "studentID": 37,
+      "minutes": 50,
+      "date": "2023-06-05T08:30:37"
+    },
+    {
+      "userID": 104,
+      "studentID": 30,
+      "minutes": 41,
+      "date": "2023-02-07T06:54:54"
+    },
+    {
+      "userID": 112,
+      "studentID": 19,
+      "minutes": 52,
+      "date": "2023-02-23T12:40:10"
+    },
+    {
+      "userID": 105,
+      "studentID": 64,
+      "minutes": 52,
+      "date": "2023-04-07T09:04:44"
+    },
+    {
+      "userID": 104,
+      "studentID": 27,
+      "minutes": 54,
+      "date": "2023-04-18T07:25:21"
+    },
+    {
+      "userID": 110,
+      "studentID": 9,
+      "minutes": 49,
+      "date": "2023-03-18T11:11:34"
+    },
+    {
+      "userID": 106,
+      "studentID": 21,
+      "minutes": 60,
+      "date": "2023-01-25T03:12:53"
+    },
+    {
+      "userID": 106,
+      "studentID": 17,
+      "minutes": 31,
+      "date": "2023-05-24T03:55:04"
+    },
+    {
+      "userID": 110,
+      "studentID": 18,
+      "minutes": 36,
+      "date": "2023-05-28T04:34:30"
+    },
+    {
+      "userID": 108,
+      "studentID": 56,
+      "minutes": 46,
+      "date": "2023-03-14T08:12:22"
+    },
+    {
+      "userID": 101,
+      "studentID": 38,
+      "minutes": 31,
+      "date": "2023-03-28T07:40:04"
+    },
+    {
+      "userID": 105,
+      "studentID": 43,
+      "minutes": 40,
+      "date": "2023-01-19T11:42:34"
+    },
+    {
+      "userID": 108,
+      "studentID": 31,
+      "minutes": 51,
+      "date": "2023-04-20T09:30:54"
+    },
+    {
+      "userID": 107,
+      "studentID": 65,
+      "minutes": 36,
+      "date": "2023-05-09T08:36:24"
+    },
+    {
+      "userID": 103,
+      "studentID": 48,
+      "minutes": 43,
+      "date": "2023-03-29T12:38:40"
+    },
+    {
+      "userID": 109,
+      "studentID": 36,
+      "minutes": 43,
+      "date": "2023-04-20T09:02:27"
+    },
+    {
+      "userID": 108,
+      "studentID": 12,
+      "minutes": 45,
+      "date": "2023-02-07T10:21:04"
+    },
+    {
+      "userID": 104,
+      "studentID": 47,
+      "minutes": 57,
+      "date": "2023-01-25T10:50:03"
+    },
+    {
+      "userID": 109,
+      "studentID": 24,
+      "minutes": 54,
+      "date": "2023-04-23T06:19:37"
+    },
+    {
+      "userID": 102,
+      "studentID": 62,
+      "minutes": 53,
+      "date": "2023-05-04T05:47:23"
+    },
+    {
+      "userID": 101,
+      "studentID": 2,
+      "minutes": 55,
+      "date": "2023-02-04T03:15:09"
+    },
+    {
+      "userID": 104,
+      "studentID": 48,
+      "minutes": 48,
+      "date": "2023-01-23T06:30:37"
+    },
+    {
+      "userID": 109,
+      "studentID": 36,
+      "minutes": 33,
+      "date": "2023-04-07T10:32:10"
+    },
+    {
+      "userID": 108,
+      "studentID": 11,
+      "minutes": 59,
+      "date": "2023-02-14T07:06:08"
+    },
+    {
+      "userID": 101,
+      "studentID": 6,
+      "minutes": 56,
+      "date": "2023-03-12T07:15:59"
+    },
+    {
+      "userID": 101,
+      "studentID": 58,
+      "minutes": 48,
+      "date": "2023-03-25T12:23:48"
+    },
+    {
+      "userID": 112,
+      "studentID": 14,
+      "minutes": 59,
+      "date": "2023-01-27T09:48:58"
+    },
+    {
+      "userID": 105,
+      "studentID": 2,
+      "minutes": 40,
+      "date": "2023-01-24T11:30:07"
+    },
+    {
+      "userID": 105,
+      "studentID": 5,
+      "minutes": 53,
+      "date": "2023-05-15T11:27:50"
+    },
+    {
+      "userID": 105,
+      "studentID": 45,
+      "minutes": 57,
+      "date": "2023-03-03T01:16:20"
+    },
+    {
+      "userID": 111,
+      "studentID": 56,
+      "minutes": 37,
+      "date": "2023-04-18T08:02:29"
+    },
+    {
+      "userID": 112,
+      "studentID": 60,
+      "minutes": 53,
+      "date": "2023-05-12T08:31:58"
+    },
+    {
+      "userID": 104,
+      "studentID": 43,
+      "minutes": 55,
+      "date": "2023-02-08T02:19:36"
+    },
+    {
+      "userID": 107,
+      "studentID": 14,
+      "minutes": 49,
+      "date": "2023-04-26T03:02:44"
+    },
+    {
+      "userID": 106,
+      "studentID": 68,
+      "minutes": 50,
+      "date": "2023-01-07T01:44:16"
+    },
+    {
+      "userID": 111,
+      "studentID": 40,
+      "minutes": 53,
+      "date": "2023-05-16T09:20:36"
+    },
+    {
+      "userID": 101,
+      "studentID": 35,
+      "minutes": 48,
+      "date": "2023-01-09T08:05:55"
+    },
+    {
+      "userID": 104,
+      "studentID": 38,
+      "minutes": 44,
+      "date": "2023-03-27T08:17:49"
+    },
+    {
+      "userID": 112,
+      "studentID": 41,
+      "minutes": 32,
+      "date": "2023-01-27T11:31:46"
+    },
+    {
+      "userID": 111,
+      "studentID": 36,
+      "minutes": 56,
+      "date": "2023-04-24T12:23:07"
+    },
+    {
+      "userID": 111,
+      "studentID": 41,
+      "minutes": 51,
+      "date": "2023-05-05T08:49:48"
+    },
+    {
+      "userID": 103,
+      "studentID": 29,
+      "minutes": 54,
+      "date": "2023-04-28T12:59:06"
+    },
+    {
+      "userID": 106,
+      "studentID": 16,
+      "minutes": 41,
+      "date": "2023-06-03T02:36:29"
+    },
+    {
+      "userID": 104,
+      "studentID": 50,
+      "minutes": 36,
+      "date": "2023-05-22T01:26:57"
+    },
+    {
+      "userID": 104,
+      "studentID": 53,
+      "minutes": 35,
+      "date": "2023-03-31T07:34:40"
+    },
+    {
+      "userID": 109,
+      "studentID": 43,
+      "minutes": 41,
+      "date": "2023-04-21T10:37:28"
+    },
+    {
+      "userID": 102,
+      "studentID": 12,
+      "minutes": 59,
+      "date": "2023-02-18T08:40:55"
+    },
+    {
+      "userID": 107,
+      "studentID": 1,
+      "minutes": 38,
+      "date": "2023-02-19T08:04:30"
+    },
+    {
+      "userID": 102,
+      "studentID": 31,
+      "minutes": 46,
+      "date": "2023-02-19T07:24:59"
+    },
+    {
+      "userID": 106,
+      "studentID": 56,
+      "minutes": 54,
+      "date": "2023-03-16T12:27:07"
+    },
+    {
+      "userID": 110,
+      "studentID": 66,
+      "minutes": 58,
+      "date": "2023-01-04T04:00:47"
+    },
+    {
+      "userID": 108,
+      "studentID": 59,
+      "minutes": 36,
+      "date": "2023-01-09T06:18:43"
+    },
+    {
+      "userID": 110,
+      "studentID": 4,
+      "minutes": 40,
+      "date": "2023-06-02T05:47:27"
+    },
+    {
+      "userID": 105,
+      "studentID": 65,
+      "minutes": 31,
+      "date": "2023-01-02T10:56:30"
+    },
+    {
+      "userID": 106,
+      "studentID": 2,
+      "minutes": 59,
+      "date": "2023-02-11T12:06:24"
+    },
+    {
+      "userID": 104,
+      "studentID": 56,
+      "minutes": 56,
+      "date": "2023-04-23T04:58:18"
+    },
+    {
+      "userID": 110,
+      "studentID": 33,
+      "minutes": 46,
+      "date": "2023-04-28T01:19:57"
+    },
+    {
+      "userID": 103,
+      "studentID": 35,
+      "minutes": 50,
+      "date": "2023-03-05T10:19:19"
+    },
+    {
+      "userID": 104,
+      "studentID": 39,
+      "minutes": 46,
+      "date": "2023-05-21T10:54:53"
+    },
+    {
+      "userID": 106,
+      "studentID": 51,
+      "minutes": 50,
+      "date": "2023-04-03T04:33:54"
+    }
+  ]
