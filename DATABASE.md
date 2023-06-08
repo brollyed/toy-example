@@ -2,16 +2,14 @@
 
 ## Schema
 
-### Students
-- StudentID int
-- FirstName varchar(100)
-- LastName varchar(100)
+```
+# Students                                                        # Users
+----------                                                        -------
+- StudentID int                                                   - UserID int
+- FirstName varchar(100)                                          - FirstName varchar(100)
+- LastName varchar(100)                                           - LastName varchar(100)
 - SchoolID int
-
-### Users
-- UserID int
-- FirstName varchar(100)
-- LastName varchar(100)
+```
 
 ### Sessions
 - UserID int
