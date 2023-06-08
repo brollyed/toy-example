@@ -1,21 +1,17 @@
-Given an input list of objects with this definition:
-
+Given these 2 class definitions:
 ```
 public class InputItem {
   public int ID { get; set; }
   public int ParentID { get; set; }
 }
-```
 
-Write a function that converts the list of inputs into a tree, where each node in the tree has this definition:
-
-```
 public class TreeNode {
   public int ID { get; set; }
   public List<TreeNode> Children { get; set; }
 }
 ```
 
+Write a function that converts the list of inputs into a tree
 e.g.
 ```
 public static TreeNode ListToTree(List<InputItem> inputs) {
@@ -25,6 +21,7 @@ public static TreeNode ListToTree(List<InputItem> inputs) {
 
 Example:
 ```
+Input                                         Output
 ID      Parent ID
 -----------------
 1       1                                        1
