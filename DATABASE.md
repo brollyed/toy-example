@@ -1,7 +1,6 @@
 # Database
 
 ## Schema
-
 ```
 # Students                                                        # Users
 ----------                                                        -------
@@ -9,17 +8,14 @@
 - FirstName varchar(100)                                          - FirstName varchar(100)
 - LastName varchar(100)                                           - LastName varchar(100)
 - SchoolID int
-```
 
-### Sessions
-- UserID int
-- StudentID int
+# Sessions                                                        # Schools
+----------                                                        ---------
+- UserID int                                                      - SchoolID int
+- StudentID int                                                   - Name varchar(100)
 - Date date
 - Minutes int
-
-### Schools
-- SchoolID int
-- Name varchar(100)
+```
 
 ## Queries
 
